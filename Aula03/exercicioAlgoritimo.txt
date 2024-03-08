@@ -1,0 +1,10 @@
+Trocar uma lampada
+
+passo 1 Ir para uma loja ou um mercado que tenha uma lampada
+passo 2 Voltar a residencia ou local que precisa da lampada
+passo 3 Pegar uma escada
+passo 4 Subir a escada
+passo 5 Retirar a lampada
+passo 6 Colocar a lampada nova
+passo 7 Descer a escada
+passo 8 Testar se a lampada liga
