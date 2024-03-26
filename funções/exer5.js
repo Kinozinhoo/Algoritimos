@@ -11,9 +11,11 @@ const rl = readline.createInterface( {
         console.log (`seu numero ${num} é: Impar`)
     }
 }
-    rl.close();
+    
 
 
     rl.question('Digite um numero:', (num) => {
          verificanumero(num);
+
+         rl.close();
     });
